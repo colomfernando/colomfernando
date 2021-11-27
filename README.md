@@ -23,7 +23,7 @@ Hello, my name is Fernando and I am a **Front End developer**, focused on bringi
 
 <br>
 
-<!-- ![](https://img.shields.io/badge/OS-Macos-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
+
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=F73859)
 ![](https://img.shields.io/badge/Code-React_native-informational?style=flat&logo=react&logoColor=white&color=F73859)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F73859)
@@ -53,6 +53,11 @@ Hello, my name is Fernando and I am a **Front End developer**, focused on bringi
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=F73859)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=F73859)
 ![](https://img.shields.io/badge/Tools-Vscode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=F73859)
+
+<br>
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=F73859)
+![](https://img.shields.io/badge/OS-Macos-informational?style=flat&logo=Apple&logoColor=white&color=F73859)
 
 
 <!--
