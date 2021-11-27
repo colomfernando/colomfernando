@@ -2,7 +2,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/colomfernando/)
 ## Hi there 👋
 
-Hello, my name is Fernando and I am a Front End developer, focused on bringing prototypes to life. I am a curious person, and who likes to experiment with different technologies. My goal is to be part of projects that push me to new challenges and the use of innovative tools. I live in Argentina and I am currently working at [Fizzmod](https://fizzmod.com)
+Hello, my name is Fernando and I am a **Front End developer**, focused on bringing prototypes to life. I am a curious person, and who likes to experiment with different technologies. My goal is to be part of projects that push me to new challenges and the use of innovative tools. I live in Argentina and I am currently working at [Fizzmod](https://fizzmod.com)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -19,7 +19,41 @@ Hello, my name is Fernando and I am a Front End developer, focused on bringing p
 <br>
 <br>
 
-![](https://img.shields.io/badge/<OS>-<Macos>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+## 💼 Skills
+
+<br>
+
+<!-- ![](https://img.shields.io/badge/OS-Macos-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=F73859)
+![](https://img.shields.io/badge/Code-React_native-informational?style=flat&logo=react&logoColor=white&color=F73859)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F73859)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=F73859)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=F73859)
+![](https://img.shields.io/badge/Code-Nextjs-informational?style=flat&logo=Next.js&logoColor=white&color=F73859)
+
+<br>
+
+![](https://img.shields.io/badge/Style-Styled_components-informational?style=flat&logo=styled-components&logoColor=white&color=F73859)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=F73859)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=SASS&logoColor=white&color=F73859)
+
+<br>
+
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=F73859)
+![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=mocha&logoColor=white&color=F73859)
+
+<br>
+
+![](https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=F73859)
+![](https://img.shields.io/badge/Tools-yarn-informational?style=flat&logo=yarn&logoColor=white&color=F73859)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=F73859)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=F73859)
+![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=F73859)
+![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=F73859)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=F73859)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=F73859)
+![](https://img.shields.io/badge/Tools-Vscode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=F73859)
+
 
 <!--
 **colomfernando/colomfernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
