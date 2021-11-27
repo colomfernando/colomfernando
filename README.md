@@ -4,19 +4,6 @@
 
 Hello, my name is Fernando and I am a **Front End developer**, focused on bringing prototypes to life. I am a curious person, and who likes to experiment with different technologies. My goal is to be part of projects that push me to new challenges and the use of innovative tools. I live in Argentina and I am currently working at [Fizzmod](https://fizzmod.com)
 
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/colomfernando">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colomfernando&hide=html,css&theme=dark&show_icons=true" />
-</a>
-
-<a href="https://github.com/colomfernando">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=colomfernando&show_icons=true&line_height=27&count_private=true&theme=dark&show_icons=true" alt="colomfernando GitHub Stats" />
-</a>
-
-<br>
 <br>
 
 ## 💼 Skills
@@ -59,7 +46,56 @@ Hello, my name is Fernando and I am a **Front End developer**, focused on bringi
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=F73859)
 ![](https://img.shields.io/badge/OS-Macos-informational?style=flat&logo=Apple&logoColor=white&color=F73859)
 
+<br>
+<br>
+## &#x1f4c8; GitHub Stats
 
+<br>
+
+<a href="https://github.com/colomfernando">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colomfernando&hide=html,css&theme=dark&show_icons=true" />
+</a>
+
+<a href="https://github.com/colomfernando">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=colomfernando&show_icons=true&line_height=27&count_private=true&theme=dark&show_icons=true" alt="colomfernando GitHub Stats" />
+</a>
+
+<br>
+<br>
+
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/colomfernando/weather-app-demo">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=colomfernando&repo=weather-app-demo&title_color=ffffff&theme=dark&show_icons=true" />
+</a>
+
+<br>
+
+<a href="https://github.com/colomfernando/browser-localstorage-expire">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=colomfernando&repo=browser-localstorage-expire&title_color=ffffff&theme=dark&show_icons=true" />
+</a>
+
+<br>
+
+<a href="https://github.com/colomfernando/grocery-list">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=colomfernando&repo=grocery-list&title_color=ffffff&theme=dark&show_icons=true" />
+</a>
+
+<br>
+
+<a href="https://github.com/colomfernando/covid19-stats">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=colomfernando&repo=covid19-stats&title_color=ffffff&theme=dark&show_icons=true" />
+</a>
+
+<br>
+
+<a href="https://github.com/colomfernando/todoapp-react-hooks">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=colomfernando&repo=todoapp-react-hooks&title_color=ffffff&theme=dark&show_icons=true" />
+</a>
+
+<br>
 <!--
 **colomfernando/colomfernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
