@@ -48,6 +48,7 @@ Hello, my name is Fernando and I am a **Front End developer**, focused on bringi
 
 <br>
 <br>
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
