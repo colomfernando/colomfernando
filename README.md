@@ -69,7 +69,6 @@ Hello, my name is Fernando and I am a **Front End developer**, focused on bringi
 <br>
 
 <a href="https://github.com/colomfernando/project-generator-cli">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=colomfernando&project-generator-cli&title_color=ffffff&theme=dark&show_icons=true" />
 </a>
 
 <a href="https://github.com/colomfernando/weather-app-demo">
