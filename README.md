@@ -1,6 +1,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/colom_fernando)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/colomfernando/)
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/8203033)
+
 ## Hi there 👋
 
 Hello, my name is Fernando and I am a **Front End developer**, focused on bringing prototypes to life. I am a curious person, and who likes to experiment with different technologies. My goal is to be part of projects that push me to new challenges and the use of innovative tools. I live in Argentina and I am currently working at [Fizzmod](https://fizzmod.com)
