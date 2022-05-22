@@ -102,6 +102,10 @@ Hello, my name is Fernando and I am a **Front End developer**, focused on bringi
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=colomfernando&repo=todoapp-react-hooks&title_color=ffffff&theme=dark&show_icons=true" />
 </a>
 
+<a href="https://github.com/colomfernando/password-generator">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=colomfernando&repo=password-generator&title_color=ffffff&theme=dark&show_icons=true" />
+</a>
+
 <br>
 <!--
 **colomfernando/colomfernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
