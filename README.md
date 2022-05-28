@@ -84,13 +84,9 @@ Hello, my name is Fernando and I am a **Front End developer**, focused on bringi
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=colomfernando&repo=password-generator&title_color=ffffff&theme=dark&show_icons=true" />
 </a>
 
-<br>
-
 <a href="https://github.com/colomfernando/browser-localstorage-expire">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=colomfernando&repo=browser-localstorage-expire&title_color=ffffff&theme=dark&show_icons=true" />
 </a>
-
-<br>
 
 <a href="https://github.com/colomfernando/grocery-list">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=colomfernando&repo=grocery-list&title_color=ffffff&theme=dark&show_icons=true" />
