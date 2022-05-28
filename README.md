@@ -92,13 +92,11 @@ Hello, my name is Fernando and I am a **Front End developer**, focused on bringi
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=colomfernando&repo=grocery-list&title_color=ffffff&theme=dark&show_icons=true" />
 </a>
 
-<br>
 
 <a href="https://github.com/colomfernando/covid19-stats">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=colomfernando&repo=covid19-stats&title_color=ffffff&theme=dark&show_icons=true" />
 </a>
 
-<br>
 
 <a href="https://github.com/colomfernando/todoapp-react-hooks">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=colomfernando&repo=todoapp-react-hooks&title_color=ffffff&theme=dark&show_icons=true" />
