@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-Hello, my name is Fernando and I am a **Front End developer**, focused on bringing prototypes to life. I am a curious person, and who likes to experiment with different technologies. My goal is to be part of projects that push me to new challenges and the use of innovative tools. I live in Argentina and I am currently working at [Fizzmod](https://fizzmod.com)
+Hello, my name is Fernando and I am a **Front End developer**, focused on bringing prototypes to life. I am a curious person, and who likes to experiment with different technologies. My goal is to be part of projects that push me to new challenges and the use of innovative tools. I live in Argentina and I am currently working at [Janis](https://janis.im)
 
 <br>
 
